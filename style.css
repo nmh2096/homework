@@ -1,0 +1,119 @@
+* {
+    margin: 0;
+}
+
+.container, .flexbox {
+    width: 100vw;
+    height: 100vh;
+    border-style: solid;
+}
+
+.one {
+    width: 100%;
+    height: 10vh;
+    background-color: yellow;
+    border-style: solid;
+}
+
+.two {
+    width: 100%;
+    height: 90vh;
+    display: flex;
+    border-style: solid;
+}
+
+.three {
+    width: 25vw;
+    height: 100%;
+    background-color: aqua;
+    border-style: solid;
+}
+
+.four {
+    width: 50vw;
+    height: 100%;
+    border-style: solid;
+}
+
+.five {
+    width: 25vw;
+    height: 100%;
+    background-color: blueviolet;
+    border-style: solid;
+}
+
+.six {
+    width: 100%;
+    height: 50vh;
+    background-color: orange;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-style: solid;
+}
+
+.seven {
+    width: 100%;
+    height: 10vh;
+    display: flex;
+    border-style: solid;
+}
+
+.eight {
+    width: 100%;
+    height: 30vh;
+    background-color: grey;
+display: flex;
+justify-content: space-around;
+align-items: center;
+border-style: solid;
+}
+
+.nine {
+    width: 80%;
+    height: 80%;
+    background-color: grey;
+    border-style: solid;
+}
+
+.eleven {
+    width: 30%;
+    height: 100;
+    background-color: black;
+    border-style: solid;
+}
+
+.twelve {
+    width: 20%;
+    height: 100%;
+    background-color: red;
+    border-style: solid;
+}
+
+.thirteen {
+    width: 20%;
+    height: 100%;
+    background-color: white;
+    border-style: solid;
+}
+
+.fourteen {
+    width: 30%;
+    height: 100%;
+    background-color: aquamarine;
+    border-style: solid;
+}
+
+.fifteen {
+    width: 30%;
+    height: 30%;
+    background-color: yellowgreen;
+    border-style: solid;
+}
+
+.sixteen {
+    width: 30%;
+    height: 30%;
+    background-color: pink;
+    border-style: solid;
+}
